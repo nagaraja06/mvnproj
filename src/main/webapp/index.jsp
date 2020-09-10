@@ -13,7 +13,7 @@
         <h1>....  NAGARAJA .....</h1>
 
 
-<table width="40%" bgcolor="yellow" align="center" border="2">
+<table width="40%" bgcolor="green" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
@@ -21,7 +21,8 @@
 
 <tr>
 <td>Username:</td>
-<td><input type="text" size=25 name="userid"></td>
+
+<td><input type="text" size=20 name="userid"></td>
 </tr>
 
 <tr>
